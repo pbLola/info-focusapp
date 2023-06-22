@@ -1,5 +1,7 @@
 {
-    "titulo": "Informações do Meu App",
-    "corpo": "Este é um exemplo de informações do aplicativo."
-  }
+  "nome": "Seu Nome",
+  "ano": "2023",
+  "faculdade": "Nome da Faculdade"
+}
+
   
